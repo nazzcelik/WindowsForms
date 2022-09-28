@@ -1,0 +1,17 @@
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\bin\Debug\net6.0-windows\NotHesaplamaUyg.exe
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\bin\Debug\net6.0-windows\NotHesaplamaUyg.deps.json
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\bin\Debug\net6.0-windows\NotHesaplamaUyg.runtimeconfig.json
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\bin\Debug\net6.0-windows\NotHesaplamaUyg.dll
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\bin\Debug\net6.0-windows\NotHesaplamaUyg.pdb
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplama2.Form1.resources
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.csproj.GenerateResource.cache
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.AssemblyInfo.cs
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.dll
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\refint\NotHesaplamaUyg.dll
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.pdb
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\NotHesaplamaUyg.genruntimeconfig.cache
+C:\Users\90545\Desktop\NotHesaplama2\NotHesaplama2\obj\Debug\net6.0-windows\ref\NotHesaplamaUyg.dll
