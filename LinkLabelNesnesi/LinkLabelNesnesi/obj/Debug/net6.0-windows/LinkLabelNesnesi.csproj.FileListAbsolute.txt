@@ -1,0 +1,17 @@
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\bin\Debug\net6.0-windows\LinkLabelNesnesi.exe
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\bin\Debug\net6.0-windows\LinkLabelNesnesi.deps.json
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\bin\Debug\net6.0-windows\LinkLabelNesnesi.runtimeconfig.json
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\bin\Debug\net6.0-windows\LinkLabelNesnesi.dll
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\bin\Debug\net6.0-windows\LinkLabelNesnesi.pdb
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.Form1.resources
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.csproj.GenerateResource.cache
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.AssemblyInfo.cs
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.dll
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\refint\LinkLabelNesnesi.dll
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.pdb
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\LinkLabelNesnesi.genruntimeconfig.cache
+C:\Users\90545\Desktop\LinkLabelNesnesi\LinkLabelNesnesi\obj\Debug\net6.0-windows\ref\LinkLabelNesnesi.dll
